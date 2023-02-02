@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="Error_title">Error</string>
+    <string name="Error_text">There was an error. Please try again</string>
+    <string name="Error_button_ok">OK</string>
+    <string name="Internet_error_text">Internet connection error</string>
+</resources>
